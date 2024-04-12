@@ -54,7 +54,7 @@ Below is an example result from our ConditionalGAN model:
     ![MNIST dataset](./result/resultMNIST.png)
 
 - FashionMNIST dataset:
-    ![FashionMNIST dataset](./result/resultMNIST.png)
+    ![FashionMNIST dataset](./result/resultFashionMNIST.png)
 ## References
 This CondionalGAN implementation is inspired by the original paper:
 - Mehdi Mirza, Simon Osindero, et al. "Conditional Generative Adversarial Nets".
