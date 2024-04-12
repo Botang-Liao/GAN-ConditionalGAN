@@ -48,6 +48,13 @@ python mainFashionMNIST.py
 ## Results
 The trained models, along with their outputs, will be saved in the `results` directory. This includes transformation examples from both domains and the loss metrics over the training period.
 
+Below is an example result from our ConditionalGAN model:
+
+- MNIST dataset:
+    ![MNIST dataset](./result/resultMNIST.png)
+
+- FashionMNIST dataset:
+    ![FashionMNIST dataset](./result/resultMNIST.png)
 ## References
 This CondionalGAN implementation is inspired by the original paper:
 - Mehdi Mirza, Simon Osindero, et al. "Conditional Generative Adversarial Nets".
